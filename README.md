@@ -46,3 +46,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 2021-2-2 测试
+2021-2-3 更新cookie测试
